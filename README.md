@@ -1,5 +1,7 @@
 # 2020-sept-thump-game
 
+**Games Project - Pangolin Team @ Mayden Academy 2020**
+
 **Fonts**
 Rock Salt - https://fontawesome.com/license
 
